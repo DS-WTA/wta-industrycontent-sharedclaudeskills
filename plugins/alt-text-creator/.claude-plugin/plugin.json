@@ -1,1 +1,8 @@
-{\n  "name": "alt-text-creator",\n  "description": "TODO: Add description",\n  "version": "0.0.1",\n  "author": {\n    "name": "TODO: Add author"\n  }\n}
+{
+  "name": "alt-text-creator",
+  "description": "Create Alt Texts for pasted images.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Daniel"
+  }
+}
