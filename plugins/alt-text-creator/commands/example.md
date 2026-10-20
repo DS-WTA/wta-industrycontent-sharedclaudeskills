@@ -1,0 +1,1 @@
+---\ndescription: Example command\n---\n\n## Name\nalt-text-creator:example\n\n## Synopsis\n```\n/alt-text-creator:example\n```\n\n## Description\nTODO: Add description\n\n## Implementation\n1. TODO: Add implementation steps\n\n## Return Value\nTODO: Describe output

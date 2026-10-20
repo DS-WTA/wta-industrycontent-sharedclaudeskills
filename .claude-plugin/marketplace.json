@@ -8,6 +8,10 @@
       "name": "example-plugin",
       "source": "./plugins/example-plugin",
       "description": "Example plugin demonstrating command structure"
-    }
+    },
+    {
+      "name": "alt-text-creator",
+      "source": "./plugins/alt-text-creator",
+      "description": "Create compliant alt texts for images"    }
   ]
 }
