@@ -1,11 +1,11 @@
 {
   "template_version": "1.0.0",
-  "marketplace_name": "{{MARKETPLACE_NAME}}",
-  "owner_name": "{{OWNER_NAME}}",
-  "github_repo": "{{GITHUB_REPO}}",
+  "marketplace_name": "WTA-industrycontent-claudeskills",
+  "owner_name": "DScott",
+  "github_repo": "DS-WTA/wta-industrycontent-claudeskills",
   "color_scheme": {
-    "primary": "{{PRIMARY_COLOR}}",
-    "primary_dark": "{{PRIMARY_DARK}}",
-    "secondary": "{{SECONDARY_COLOR}}"
+    "primary": "#0077be",
+    "primary_dark": "#005a8e",
+    "secondary": "#4db8ff"
   }
 }
