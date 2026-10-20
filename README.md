@@ -1,19 +1,19 @@
-# {{MARKETPLACE_NAME}}
+# WTA-industrycontent-claudeskills
 
-{{MARKETPLACE_SUBTITLE}}
+Claude Code Plugins by DScott
 
 ## Installation
 
 Add the marketplace to Claude Code:
 
 ```
-/plugin marketplace add {{GITHUB_REPO}}
+/plugin marketplace add DS-WTA/wta-industrycontent-claudeskills
 ```
 
 Install a specific plugin:
 
 ```
-/plugin install example-plugin@{{MARKETPLACE_NAME}}
+/plugin install example-plugin@WTA-industrycontent-claudeskills
 ```
 
 ## Plugins
@@ -36,7 +36,7 @@ make update
 
 ## Documentation
 
-Visit the [documentation site](https://{{GITHUB_PAGES_URL}}) for more information.
+Visit the [documentation site](https://DS-WTA.github.io/wta-industrycontent-claudeskills) for more information.
 
 ## License
 

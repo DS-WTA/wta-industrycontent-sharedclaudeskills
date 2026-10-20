@@ -7,14 +7,14 @@ alt-text-creator:create
 
 ## Synopsis
 ```
-/alt-text-creator:Create an alt text using the skill.md file for this plugin
+/alt-text-creator:create
 ```
 
 ## Description
-Creates an  WCAG compliant alt text, no more than 120 characters, using the process detailed in the skill.md
+Creates WCAG-compliant alt text, no more than 120 characters per image, using the process detailed in the `create-alt-text` skill.
 
 ## Implementation
-Use skill.md
+Invoke the `create-alt-text` skill and follow its rules exactly.
 
 ## Return Value
-Return output as described in the skill.md
+Returns one alt text per uploaded image, in upload order, as described in the `create-alt-text` skill.
