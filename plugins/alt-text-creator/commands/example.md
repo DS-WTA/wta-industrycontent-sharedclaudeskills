@@ -1,20 +1,20 @@
 ---
-description: Example command
+description: create alt text
 ---
 
 ## Name
-alt-text-creator:example
+alt-text-creator:create
 
 ## Synopsis
 ```
-/alt-text-creator:example
+/alt-text-creator:Create an alt text using the skill.md file for this plugin
 ```
 
 ## Description
-TODO: Add description
+Creates an  WCAG compliant alt text, no more than 120 characters, using the process detailed in the skill.md
 
 ## Implementation
-1. TODO: Add implementation steps
+Use skill.md
 
 ## Return Value
-TODO: Describe output
+Return output as described in the skill.md

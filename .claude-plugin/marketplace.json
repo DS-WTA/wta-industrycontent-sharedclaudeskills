@@ -12,12 +12,12 @@
     {
       "name": "alt-text-creator",
       "source": "./plugins/alt-text-creator",
-      "description": "Create compliant alt texts for images"
+      "description": "Create compliant alt texts for images."
     },
     {
       "name": "docx-to-source",
       "source": "./plugins/docx-to-source",
-      "description": "TODO: Add description"
+      "description": "Convert DOCX files to source code for CCA."
     }
   ]
 }
