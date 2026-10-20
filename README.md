@@ -7,7 +7,7 @@ Claude Code Plugins by DScott
 Add the marketplace to Claude Code:
 
 ```
-/plugin marketplace add DS-WTA/wta-industrycontent-claudeskills
+/plugin marketplace add DS-WTA/wta-industrycontent-sharedclaudeskills
 ```
 
 Install a specific plugin:
@@ -36,7 +36,7 @@ make update
 
 ## Documentation
 
-Visit the [documentation site](https://DS-WTA.github.io/wta-industrycontent-claudeskills) for more information.
+Visit the [documentation site](https://DS-WTA.github.io/wta-industrycontent-sharedclaudeskills) for more information.
 
 ## License
 
