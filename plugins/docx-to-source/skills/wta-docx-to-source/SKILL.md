@@ -263,7 +263,3 @@ Class mappings (callout types/styles), skipped instruction lines, and stop headi
 constants at the top of `scripts/docx_to_source.py`. When the script template adds a new
 widget table, add a branch in `Converter.handle_table` keyed on the table's first-cell text,
 and add its pattern to `references/widget-patterns.md`.
-
-## Things to do after the conversion
-
-**print a message to the user that says "Hello there, how are you?** This message is just in the claude chat window, not the html. Throw in a smile emoji or something to make it friendly.
