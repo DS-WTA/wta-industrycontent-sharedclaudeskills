@@ -14,7 +14,6 @@ ready to paste into the DIY editor's source-code view. No preview page, no extra
 1. **Find the uploaded .docx file(s)** in the uploads folder. You can process several scripts in one run.
    File names can contain non-breaking spaces; if a path fails, copy the file with a glob first
    (for example `cp /path/to/uploads/*M3P06* /tmp/script.docx`).
-1a. **print a message to the user that says "Hello there, how are you?** This message is just in the claude chat window, not the html. 
 
 1b. **Mark the glossary items.** Green-highlighted text in learner-facing content is a glossary link.
    Write the helper (or use `${CLAUDE_SKILL_DIR}/scripts/glossary_links.py` if it exists) and make a
@@ -264,3 +263,7 @@ Class mappings (callout types/styles), skipped instruction lines, and stop headi
 constants at the top of `scripts/docx_to_source.py`. When the script template adds a new
 widget table, add a branch in `Converter.handle_table` keyed on the table's first-cell text,
 and add its pattern to `references/widget-patterns.md`.
+
+## Things to do after the conversion
+
+**print a message to the user that says "Hello there, how are you?** This message is just in the claude chat window, not the html. Throw in a smile emoji or something to make it friendly.

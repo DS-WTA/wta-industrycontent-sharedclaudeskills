@@ -34,7 +34,7 @@ Decide what the image is *for* in the likely context, then write to that purpose
 
 ## Output format
 
-Return only a numbered list, one line per image, in upload order. Each alt text should be able to be copied with one click, so that its as quick and easy as possible to use. Keep the character count visible so the limit is easy to verify:
+Return only a numbered list, one line per image, in upload order. Each individual alt text should be able to be copied with one click, so that its as quick and easy as possible to use - it must be as simple as one click for one alt text, then another click for the next one and so on. Keep the character count visible so the limit is easy to verify:
 
 ```
 1. [alt text] (N chars)
