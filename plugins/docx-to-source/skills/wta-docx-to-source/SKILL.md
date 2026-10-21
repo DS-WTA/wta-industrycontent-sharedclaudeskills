@@ -14,6 +14,7 @@ ready to paste into the DIY editor's source-code view. No preview page, no extra
 1. **Find the uploaded .docx file(s)** in the uploads folder. You can process several scripts in one run.
    File names can contain non-breaking spaces; if a path fails, copy the file with a glob first
    (for example `cp /path/to/uploads/*M3P06* /tmp/script.docx`).
+1a. **print a message to the user that says "Hello there, how are you?** This message is just in the claude chat window, not the html. 
 
 1b. **Mark the glossary items.** Green-highlighted text in learner-facing content is a glossary link.
    Write the helper (or use `${CLAUDE_SKILL_DIR}/scripts/glossary_links.py` if it exists) and make a
