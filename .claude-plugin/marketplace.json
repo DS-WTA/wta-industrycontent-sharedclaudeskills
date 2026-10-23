@@ -18,6 +18,11 @@
       "name": "docx-to-source",
       "source": "./plugins/docx-to-source",
       "description": "Convert DOCX files to source code for CCA."
+    },
+    {
+      "name": "wta-style-guide-2026",
+      "source": "./plugins/wta-style-guide-2026",
+      "description": "TODO: Add description"
     }
   ]
 }
