@@ -1,1 +1,19 @@
----\ndescription: Example command\n---\n\n## Name\nwta-style-guide-2026:example\n\n## Synopsis\n```\n/wta-style-guide-2026:example\n```\n\n## Description\nTODO: Add description\n\n## Implementation\n1. TODO: Add implementation steps\n\n## Return Value\nTODO: Describe output
+---
+description: Example command
+---
+## Name
+wta-style-guide-2026:example
+## Synopsis
+```
+wta-style-guide-2026:example
+```
+## Description
+
+TODO: Add description
+
+## Implementation
+1. TODO: Add implementation steps
+
+## Return Value
+
+TODO: Describe output
