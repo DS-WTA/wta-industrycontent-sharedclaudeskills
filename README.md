@@ -1,6 +1,10 @@
 # WTA-industrycontent-claudeskills
 
-Claude Code Plugins by DScott
+Claude Code Plugins by DScott. This repo is for using and editing a shared set of Claude skills used by the WTA Industry Content team, and is accessed mainly through Claude. 
+
+The below is a more technical set of instructions for specific users - most people never need to follow these. If you have any questions or issues, send Daniel a message on teams. 
+
+# Instructions for ADVANCED users only:
 
 ## Installation
 
