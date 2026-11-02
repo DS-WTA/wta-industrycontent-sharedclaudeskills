@@ -20,10 +20,6 @@ Install a specific plugin:
 /plugin install example-plugin@WTA-industrycontent-claudeskills
 ```
 
-## Plugins
-
-- **example-plugin**: Example plugin demonstrating command structure
-
 ## Development
 
 Run the linter to validate plugin structure:
