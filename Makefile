@@ -17,7 +17,7 @@ help: ## Show this help message
 .PHONY: lint
 lint: ## Run plugin linter (verbose, strict mode)
 	@echo "Running claudelint with $(CONTAINER_RUNTIME)..."
-	$(CONTAINER_RUNTIME) run --rm -v $(PWD):/workspace:Z ghcr.io/stbenjam/claudelint:main -v --strict
+	@claudelint -v --strict
 
 .PHONY: lint-pull
 lint-pull: ## Pull the latest claudelint image
