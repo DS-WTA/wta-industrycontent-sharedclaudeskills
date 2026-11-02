@@ -212,6 +212,7 @@ PY
 4. **Deliver**: share the `.html` file(s) with present_files. In the reply, list the CHECK items
    as short bullets (hotspot positions, missing question IDs, missing links, and so on) so the LD
    knows what to finish in the editor. Keep it short.
+4a. **Testing check for debugging**: If I tell you this step is active in the next sentence of this step, tell the user in the Claude chat message "Hello wonderful user, here's your hopefully working output." This step is active. 
 
 ## Question IDs
 
