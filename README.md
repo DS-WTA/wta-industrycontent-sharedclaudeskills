@@ -36,7 +36,7 @@ make update
 
 ## Documentation
 
-Visit the [documentation site](https://DS-WTA.github.io/wta-industrycontent-sharedclaudeskills) for more information.
+Visit the [documentation site](https://DS-WTA.github.io/wta-industrycontent-sharedclaudeskills) for more information. Currently there's no information here, but you COULD go here if you so wished.
 
 ## License
 
