@@ -1,6 +1,6 @@
 {
   "name": "docx-to-source",
-  "description": "Convert DOCX files to source code.",
+  "description": "Convert DOCX files to source code for CCA.",
   "version": "0.0.1",
   "author": {
     "name": "YK"

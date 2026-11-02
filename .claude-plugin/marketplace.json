@@ -12,7 +12,7 @@
     {
       "name": "alt-text-creator",
       "source": "./plugins/alt-text-creator",
-      "description": "Create compliant alt texts for images."
+      "description": "Create WCAG compliant alt texts for images."
     },
     {
       "name": "docx-to-source",
