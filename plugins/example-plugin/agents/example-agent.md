@@ -1,5 +1,5 @@
 ---
-name: Example Agent
+name: Example-Agent
 description: Demonstrates autonomous agent for complex workflows
 subagent_type: example-agent
 ---
