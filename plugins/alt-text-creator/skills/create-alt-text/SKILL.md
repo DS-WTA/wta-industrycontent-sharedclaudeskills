@@ -31,6 +31,7 @@ Decide what the image is *for* in the likely context, then write to that purpose
 - Use plain language and sentence case. End with a period only if the alt text is a full sentence.
 - Don't guess names of real people from their appearance. Describe them by visible role or action unless the person is identified by text in the image or by the user.
 - If the user gives context (where the image will be used, the audience), tailor the wording to it. Otherwise assume a general web page.
+- NEVER use terms like "representing X concept". If there is something that requires additional context, the user can either provide it or the original script. 
 
 ## Output format
 
@@ -53,3 +54,8 @@ Three images uploaded in this order: a team photo, a search icon, a sales chart.
 2. Search (6 chars)
 3. Bar chart showing online sales rising 40% from 2022 to 2024 (59 chars)
 ```
+
+## Additional features and steps
+
+- If user is unhappy with the alt text on grounds of relevance, ask the user if they'd like to upload the script before attempting to rewrite the alt text. If they do, use the script to inform your rewrite.
+- If the user asks for a caption, inform them that this skill is optimised for alt texts, and that captions are generally not needed. You should still provide a caption as part of that response, but only after informing the user of the difference.

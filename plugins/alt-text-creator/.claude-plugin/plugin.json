@@ -1,7 +1,7 @@
 {
   "name": "alt-text-creator",
   "description": "Create WCAG compliant alt texts for pasted images.",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "Daniel"
   }
